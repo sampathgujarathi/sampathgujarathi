@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![](https://discord.c99.nl/widget/theme-4/830819118265401354.png)](https://discord.gg/YhTU6Akzmy)
+[![](https://discord.c99.nl/widget/theme-3/926451030718304268.png)](https://discord.gg/YhTU6Akzmy)
 <br />
 
 ### Languages I Know:
