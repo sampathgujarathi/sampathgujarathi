@@ -1,9 +1,8 @@
-### Hi there, I'm G∙MAX - aka [G∙MAX](https://disbots.xyz/user/830819118265401354) 👋
+### Hi there, I'm Sampath👋
 
 
 ## I'm a Student and a Developer!!
 
-- 🔭 I’m currently working on [Disbots.xyz](https://disbots.xyz)
 - 🌎 I’m from - India
 
 ### Connect with me:
@@ -22,7 +21,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="G∙MAX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GMAX2&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Sampath's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gsampath2&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
