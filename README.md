@@ -26,4 +26,4 @@
 </details>
 
 [website]: https://disbots.xyz
-[![Discord](https://discord.com/api/guilds/852825880271257611/embed.png?style=banner1)](https://discord.gg/YhTU6Akzmy)
+[![Discord](https://discord.com/api/guilds/986977144221610025/embed.png?style=banner1)](https://discord.gg/5hfdcjfqCQ)
