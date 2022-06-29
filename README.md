@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![](https://discord.c99.nl/widget/theme-3/926451030718304268.png)](https://discord.gg/YhTU6Akzmy)
+[![](https://discord.c99.nl/widget/theme-4/984015688807100419.png)](https://discord.gg/YhTU6Akzmy)
 <br />
 
 ### Languages I Know:
@@ -21,9 +21,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sampath's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gsampath2&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Sampath's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gsampath1&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
-
-[website]: https://disbots.xyz
-[![Discord](https://discord.com/api/guilds/986977144221610025/embed.png?style=banner1)](https://discord.gg/5hfdcjfqCQ)
