@@ -25,7 +25,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GSampath1&count_private=true&show_icons=true&theme=radical" alt="gsampath1" /></p>
 
