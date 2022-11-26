@@ -2,8 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user//bd9a32e7b44f4734)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kbzl4rt652gjqxayjhl757ucgq&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 - 🔭 I’m currently working on **Disbots.xyz**
