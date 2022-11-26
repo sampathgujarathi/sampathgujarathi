@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsampath1&show_icons=true&locale=en&layout=compact" alt="gsampath1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsampath1&show_icons=true&locale=en" alt="gsampath1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSampath1&show_icons=true&theme=radical" alt="gsampath1" /></p>
