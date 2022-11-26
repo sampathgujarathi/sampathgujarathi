@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Disbots.xyz**
 
-- 👨‍💻 All of my projects are available at [sampath.tech](sampath.tech)
+- 👨‍💻 All of my projects are available at [sampath.tech](https://sampath.tech)
 
 - 📫 How to reach me **sampathgujarathi@gmail.com**
 
