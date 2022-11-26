@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sampath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+---
+
 - 🔭 I’m currently working on **Disbots.xyz**
 
 - 👨‍💻 All of my projects are available at [sampath.tech](sampath.tech)
