@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31kbzl4rt652gjqxayjhl757ucgq)
 
 ---
 
