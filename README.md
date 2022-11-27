@@ -1,3 +1,4 @@
+<img align="center" src="https://media.discordapp.net/attachments/1004336844403646545/1046336104640565268/Frame_13.png?width=1440&height=360" alt="gsampath1" />
 <h1 align="center">Hi 👋, I'm Sampath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
