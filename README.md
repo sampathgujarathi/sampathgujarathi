@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sampath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="center">
+- 🔭 I’m currently working on **Disbots.xyz**
+
+- 👨‍💻 All of my projects are available at [sampath.tech](https://sampath.tech)
+
+- 📫 How to reach me **sampathgujarathi@gmail.com**
+</p>
+     
 ## 📘 My top open source projects
 
 <p align="center">
@@ -16,12 +24,6 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kbzl4rt652gjqxayjhl757ucgq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
-
-- 🔭 I’m currently working on **Disbots.xyz**
-
-- 👨‍💻 All of my projects are available at [sampath.tech](https://sampath.tech)
-
-- 📫 How to reach me **sampathgujarathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
