@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sampath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
-     <a>- 🔭 I’m currently working on **Disbots.xyz**</a>
-
-<a>- 👨‍💻 All of my projects are available at [sampath.tech](https://sampath.tech)</a>
-
-<a>- 📫 How to reach me **sampathgujarathi@gmail.com**</a>
-</p>
-     
 ## 📘 My top open source projects
 
 <p align="center">
@@ -17,9 +9,20 @@
     <a href="https://github.com/GSampath1/Enron"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GSampath1&repo=Enron&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ishaantek?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+---
+
+## 📚 About Me
+
+```diff 
+💀 Name: Sampath Gujarathi.
+📬 Email: sampathgujarathi@gmail.com.
+🖥️ Favorite Coding Language: Python.
+🌳 Hobbies: Coding, Studying.
+🔭 I’m currently working on **Disbots.xyz**
+```
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kbzl4rt652gjqxayjhl757ucgq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -29,7 +32,7 @@
 <p align="left">
 <a href="https://twitter.com/gsampath__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsampath__" height="30" width="40" /></a>
 </p>
-
+---
 ### 🛠 &nbsp;Languages and Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
