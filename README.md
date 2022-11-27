@@ -22,7 +22,7 @@
 📬 Email: sampathgujarathi@gmail.com.
 🖥️ Favorite Coding Language: Python.
 🌳 Hobbies: Coding, Studying.
-🔭 I’m currently working on **Disbots.xyz**
+🔭 I’m currently working on a discord bot
 ```
 
 ### Spotify Playing 🎧
