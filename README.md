@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-- 🔭 I’m currently working on **Disbots.xyz**
+     <a>- 🔭 I’m currently working on **Disbots.xyz**</a>
 
-- 👨‍💻 All of my projects are available at [sampath.tech](https://sampath.tech)
+<a>- 👨‍💻 All of my projects are available at [sampath.tech](https://sampath.tech)</a>
 
-- 📫 How to reach me **sampathgujarathi@gmail.com**
+<a>- 📫 How to reach me **sampathgujarathi@gmail.com**</a>
 </p>
      
 ## 📘 My top open source projects
