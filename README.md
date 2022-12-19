@@ -5,7 +5,6 @@
 ## 📘 My top open source projects
 
 <p align="center">
-     <a href="https://github.com/GSampath1/Giftix"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GSampath1&repo=Giftix&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/GSampath1/Discordbotwebsite"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GSampath1&repo=Discordbotwebsite&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/GSampath1/Enron"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GSampath1&repo=Enron&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
