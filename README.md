@@ -32,7 +32,4 @@
 [![](https://visitcount.itsvg.in/api?id=GSampath1&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gsampath) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <a href="https://www.buymeacoffee.com/gsampath"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gsampath&button_colour=BD5FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
