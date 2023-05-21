@@ -1,52 +1,38 @@
-<img align="center" src="https://media.discordapp.net/attachments/1004336844403646545/1046336104640565268/Frame_13.png?width=1440&height=360" alt="gsampath1" />
-<h1 align="center">Hi 👋, I'm Sampath</h1>
-<h3 align="center">A passionate developer from India</h3>
+# 💫 About Me:
 
-## 📘 My top open source projects
-
-<p align="center">
-    <a href="https://github.com/GSampath1/Discordbotwebsite"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GSampath1&repo=Discordbotwebsite&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/GSampath1/Enron"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GSampath1&repo=Enron&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/GSampath1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
----
-
-## 📚 About Me
-
-```diff 
 💀 Name: Sampath Gujarathi.
-📬 Email: sampathgujarathi@gmail.com.
+📬 Email: gujarathisampath@gmail.com.
 🖥️ Favorite Coding Language: Python.
 🌳 Hobbies: Coding, Studying.
-🔭 I’m currently working on a discord bot
-```
+🔭 I’m currently working on Accurix
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kbzl4rt652gjqxayjhl757ucgq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pBuvyZ2hzt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sampathgujarathi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sampathgujarathi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GSampath__) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GSampath1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GSampath1&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GSampath1&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GSampath1&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=GSampath__)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GSampath1&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=GSampath1&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gsampath__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsampath__" height="30" width="40" /></a>
-<a href="https://discord.com/users/984015688807100419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gsampath__" height="30" width="40" /></a>
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gsampath) 
 
----
-
-### 🛠 &nbsp;Languages and Tools
-
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GSampath1&count_private=true&show_icons=true&theme=radical" alt="gsampath1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSampath1&show_icons=true&theme=radical" alt="gsampath1" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
