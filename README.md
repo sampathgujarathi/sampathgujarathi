@@ -29,7 +29,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GSampath1&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GSampath1&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GSampath1&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   <a href="https://www.buymeacoffee.com/gsampath"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gsampath&button_colour=BD5FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
