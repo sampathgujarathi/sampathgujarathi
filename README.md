@@ -1,3 +1,5 @@
+<img align="center" src="https://media.discordapp.net/attachments/1109153090738851911/1110203876369498262/Banner_Sampath.png?width=1025&height=390" alt="gsampath1" />
+
 # 💫 About Me:
 ```diff
 💀 Name: Sampath Gujarathi.
