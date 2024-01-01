@@ -34,4 +34,4 @@
 [![](https://visitcount.itsvg.in/api?id=sampathgujarathi&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  <a href="https://www.buymeacoffee.com/gsampath"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gsampath&button_colour=BD5FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/sampathgujarathi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
