@@ -9,8 +9,5 @@
         { "id": "bug_hunter_level_1", "description": "Discord Bug Hunter", "icon": "https://cdn.discordapp.com/badge-icons/2717692c7dca7289b35297368a940dd0.png", "link": "https://support.discord.com/hc/en-us/articles/360046057772-Discord-Bugs" },
         { "id": "partner", "description": "Partnered Server Owner", "icon": "https://cdn.discordapp.com/badge-icons/3f9748e53446a137a052f3454e2de41e.png", "link": "https://discord.com/partners" },
         { "id": "staff", "description": "Discord Staff", "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png", "link": "https://discord.com/company" }
-    ],
-    "853147823066578946": [
-        { "id": "kunal", "description": "Kunal", "icon": "https://cdn.discordapp.com/emojis/1179757753682628628.gif", "link": "https://discord.gg/computer" }
     ]
 }
