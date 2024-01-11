@@ -11,6 +11,6 @@
         { "id": "staff", "description": "Discord Staff", "icon": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png", "link": "https://discord.com/company" }
     ],
     "853147823066578946": [
-        { "id": "kunal", "description": "Kunal", "icon": "https://cdn.discordapp.com/emojis/1179757753682628628.gif", "link": "https://discord.gg/computer" },
+        { "id": "kunal", "description": "Kunal", "icon": "https://cdn.discordapp.com/emojis/1179757753682628628.gif", "link": "https://discord.gg/computer" }
     ]
 }
