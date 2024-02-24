@@ -2,6 +2,7 @@
 
 ## Overview
 
+<span style="color: white;">This text will be white.</span>
 This is a simple Markdown example showcasing various formatting options.
 
 ### Basic Text Formatting
