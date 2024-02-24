@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Artificial Intelligence (AI) has emerged as a transformative force, influencing various aspects of our society. In this blog post, we will explore the profound impact that AI has on different sectors and discuss both the opportunities and challenges it presents.
+__Artificial Intelligence__ (AI) has emerged as a transformative force, influencing various aspects of our society. In this blog post, we will explore the profound impact that AI has on different sectors and discuss both the opportunities and challenges it presents.
 
 ## AI in Healthcare
 
