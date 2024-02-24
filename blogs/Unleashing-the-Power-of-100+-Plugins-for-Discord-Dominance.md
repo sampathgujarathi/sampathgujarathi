@@ -5,7 +5,7 @@ Dive into the next frontier of Discord communication with Vencord, the all-in-on
 
 ## Vencord: Redefining Discord Interaction
 
-Vencord isn't your average Discord bot – it's a Swiss Army knife of functionalities, ready to elevate your server. Here's why Vencord is capturing the attention of Discord enthusiasts:
+Vencord isn't your average Discord bot, it's a Swiss Army knife of functionalities, ready to elevate your server. Here's why Vencord is capturing the attention of Discord enthusiasts:
 
 ### Expansive Plugin Library
 Step into a realm of endless possibilities with Vencord's extensive plugin library. Offering over 100 plugins, Vencord caters to a diverse range of needs, from the essentials like moderation and customization to more niche functionalities like music and translation. No matter your Discord requirements, Vencord ensures there's a plugin to enhance your server dynamics.
