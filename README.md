@@ -1,4 +1,4 @@
-<img align="center" src="https://media.discordapp.net/attachments/1179092144145830049/1186328960070598726/UzapqKG.png" alt="gsampath1" />
+<img align="center" src="https://i.imgur.com/7xFlHDm.png" alt="Sampath Gujarathi" />
 
 # 💫 About Me:
 ```diff
