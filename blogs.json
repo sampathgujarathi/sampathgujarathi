@@ -1,4 +1,4 @@
-[
+{ "blogs":[
   {
     "title": "Introduction to React",
     "description": "Learn the basics of React.js and its core concepts.",
@@ -15,3 +15,5 @@
     "link": "responsive-web-design-tips"
   }
 ]
+
+}
