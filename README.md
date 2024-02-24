@@ -1,12 +1,13 @@
-<img align="center" src="https://i.imgur.com/7xFlHDm.png" alt="Sampath Gujarathi" />
+<img align="center" src="https://i.imgur.com/7xFlHDm.png" alt="Sampath Gujarathi"  />
 
 # 💫 About Me:
 ```diff
 💀 Name: Sampath Gujarathi.
 📬 Email: gujarathisampath@gmail.com.
 🖥️ Favorite Coding Language: Python.
+🖥️ Coding Language I Know: Python, JavaScript.
 🌳 Hobbies: Coding, Studying.
-🔭 I’m currently working on Accurix
+🔭 I’m currently working on Nothing
 ```
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ffmkewQ4R7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sampathgujarathi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sampathgujarathi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GSampath__) 
