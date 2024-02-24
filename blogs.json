@@ -2,17 +2,7 @@
   {
     "title": "Introduction to React",
     "description": "Learn the basics of React.js and its core concepts.",
-    "link": "introduction-to-react"
-  },
-  {
-    "title": "JavaScript ES6 Features",
-    "description": "Explore the new features introduced in ECMAScript 2015 (ES6).",
-    "link": "javascript-es6-features"
-  },
-  {
-    "title": "Responsive Web Design Tips",
-    "description": "Tips and techniques for creating responsive web designs.",
-    "link": "responsive-web-design-tips"
+    "link": "test"
   }
 ]
 
