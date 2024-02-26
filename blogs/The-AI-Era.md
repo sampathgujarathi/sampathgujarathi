@@ -1,7 +1,7 @@
 # Unleashing the Power of Artificial Intelligence: A Deep Dive into the World of AI
 ![AI](https://github.com/sampathgujarathi/sampathgujarathi/assets/66912066/a46e20fe-e6bf-4bd3-a7f1-19202aae0f22)
 
-Hey fellow tech enthusiasts! 🚀 Ready for an in-depth exploration into the mesmerizing world of Artificial Intelligence (AI)? Grab your virtual magnifying glass because we're about to delve into the origins, current applications, and the boundless potential that AI holds for the future.
+Hey fellow tech enthusiasts! Ready for an in-depth exploration into the mesmerizing world of Artificial Intelligence (AI)? Grab your virtual magnifying glass because we're about to delve into the origins, current applications, and the boundless potential that AI holds for the future.
 
 ## Understanding the ABCs of AI
 
