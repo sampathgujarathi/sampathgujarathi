@@ -2,12 +2,14 @@
   {
     "title": "The AI Era",
     "description": "The future of AI is like a thrilling rollercoaster ride. Emerging areas like explainable AI, quantum computing, and the collaborative dance between humans and AI are poised to redefine the landscape..",
-    "link": "The-AI-Era"
+    "link": "The-AI-Era",
+    "icon": "https://i.imgur.com/KSklpdi.png"
   },
   {
     "title": "Unleashing the Power of 100+ Plugins for Discord Dominance",
     "description": "Vencord isn't your average Discord bot, it's a Swiss Army knife of functionalities, ready to elevate your server.",
-    "link": "Unleashing-the-Power-of-100+-Plugins-for-Discord-Dominance"
+    "link": "Unleashing-the-Power-of-100+-Plugins-for-Discord-Dominance",
+    "icon": "https://i.imgur.com/isGjm5N.png"
   }
 ]
 
