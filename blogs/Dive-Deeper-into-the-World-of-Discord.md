@@ -33,7 +33,8 @@ Here are some ideas for exploring Discord in a positive way:
 If you're interested in trying out Discord, it's easy to get started. 
 
 1. **Download the App:**  The Discord app is available for Windows, Mac, Linux, Android, and iOS.
-2. **Create an Account:**  Signing up for Discord is free and only requires a username and email address.
-3. **Join a Server:** You can find public servers to join through online directories or by getting an invite link from a friend who is already on a server. 
+   [Download Discord App](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
+3. **Create an Account:**  Signing up for Discord is free and only requires a username and email address.
+4. **Join a Server:** You can find public servers to join through online directories or by getting an invite link from a friend who is already on a server. 
 
 Remember, online communities can be a great way to connect and learn, but it's important to be mindful of your privacy and safety. Take some time to explore Discord's safety resources and server rules before diving in. 
